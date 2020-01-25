@@ -2,7 +2,7 @@
 Cheat sheet of commands that I refer too
 
 ## npm
-- If pitzi ditzi and npm start doesn't want to work
+- If pitzi ditzi and `npm start` doesn't want to work
 ```bash
 npm cache clean --force   # clears cache
 rm -rf node_modules       # removes recursively node_modules folder
